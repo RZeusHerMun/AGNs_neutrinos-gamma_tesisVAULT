@@ -6,7 +6,6 @@
       {
         "id": "bc68f345fe6d06d0",
         "type": "tabs",
-        "dimension": 61.76470588235294,
         "children": [
           {
             "id": "9238ca5560abfbbc",
@@ -38,20 +37,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "XCRITURA"
-            }
-          },
-          {
-            "id": "be059a794ea86e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TESIS - DRAFTS/DRAFTS - VI. Discusión y Conclusiones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DRAFTS - VI. Discusión y Conclusiones"
             }
           },
           {
@@ -96,43 +81,8 @@
               "title": "Neutrinos - Marco Teórico"
             }
           }
-        ]
-      },
-      {
-        "id": "d34ff2681cbbc242",
-        "type": "tabs",
-        "dimension": 38.235294117647065,
-        "children": [
-          {
-            "id": "e5132e91ec2a5a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TESIS - DRAFTS/Comentarios del Asesor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comentarios del Asesor"
-            }
-          },
-          {
-            "id": "448ab27d319f6273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inicio Diario - Launch Jupy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inicio Diario - Launch Jupy"
-            }
-          }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,17 +217,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inicio Diario - Launch Jupy.md",
+                "file": "Inicio Diario - Launch Jupy - versionsGIT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Inicio Diario - Launch Jupy"
+              "title": "Esquema de Inicio Diario - Launch Jupy - versionsGIT"
+            }
+          },
+          {
+            "id": "aaadbbeda899a2f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "f69c58189f4d4a83",
@@ -308,7 +268,8 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -336,8 +297,65 @@
                   "icon": "lucide-file",
                   "title": "IceCube_SeminarINFN_Rome_Zegarelli"
                 }
+              },
+              {
+                "id": "5167710e5cb077a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "All/Neutrinos/Producción de Neutrinos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Producción de Neutrinos"
+                }
+              },
+              {
+                "id": "98d9e250e023cdbf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Neutrinos - Marco Teórico"
+                }
+              },
+              {
+                "id": "2dd88df2933a8bf3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino"
+                }
+              },
+              {
+                "id": "398fac12d16d8564",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Inicio Diario - Launch Jupy - versionsGIT.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inicio Diario - Launch Jupy - versionsGIT"
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -345,22 +363,27 @@
         "y": 0,
         "width": 768,
         "height": 864,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "448ab27d319f6273",
+  "active": "398fac12d16d8564",
   "lastOpenFiles": [
-    "TheSis.md",
-    "XCRITURA.md",
     "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.md",
-    "Nuevo Documento de texto.txt",
-    "TESIS - DRAFTS/DRAFTS - VI. Discusión y Conclusiones.md",
+    "Pasted image 20260625135453.png",
     "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
+    "All/Neutrinos/Producción de Neutrinos.md",
+    "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
+    "Avances Tesis.md",
+    "XCRITURA.md",
+    "TESIS - DRAFTS/DRAFTS - VI. Discusión y Conclusiones.md",
+    "All/Problemas.md",
+    "TheSis.md",
+    "Inicio Diario - Launch Jupy - versionsGIT.md",
+    "Nuevo Documento de texto.txt",
     "FUENTES/IceCat-1 -- TheIceCubeEventCatalogofAlertTracks.md",
     "All/HAWC+IceCube- Fuentes multimensajero.md",
-    "All/Neutrinos/Producción de Neutrinos.md",
     "All/Neutrinos/Neutrino - Descripción y Propiedades.md",
     "All/Polarimetría para Investigación sobre Campos Magnéticos en elementos Interestelares.md",
     "All/mapa detallado, sección-por-sección del Cpitulo 2 - (Gamma-ray facilities and data).md",
@@ -372,16 +395,12 @@
     "TESIS - DRAFTS/DRAFTS - III.iii IceCube.md",
     "Tesis - III.iii IceCube.pdf",
     "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.pdf",
-    "Avances Tesis.md",
     "All/Data.md",
     "Estadística para Astrodatos/All of Statistics A Concise Course in Statistical Inference.pdf",
     "Escritura/IV. Análisis.md",
     "TESIS - DRAFTS/DRAFTS - V. Catálogo de Coincidencias.md",
     "TESIS - DRAFTS/DRAFTS - IV. Análisis.md",
     "TESIS - DRAFTS/DRAFTS - III.ii Fermi-LAT.md",
-    "TESIS - DRAFTS/DRAFTS - III.i HAWC.md",
-    "TESIS - DRAFTS/DRAFTS - II.iii Radiación y Mecanismos de Emisión.md",
-    "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
     "FUENTES/Searching for new very high-energy blazars candidates with Fermi-LAT (1).pdf",
     "Anexos/Pasted image 20260624113212.png",
     "Anexos/Pasted image 20260616221922.png",
@@ -396,7 +415,6 @@
     "ANALISIS",
     "TESIS - DRAFTS",
     "All/Analisis Estadistico Completo.pdf",
-    "All/figuras/spearman_diagnostico_bug.png",
     "Anexos/teni.canvas",
     "GENERAL reseach.canvas",
     "TITULACION.canvas",

@@ -22,9 +22,6 @@ tags:
   - area/academia
   - estado/activo
 ---
-
-# Neutrinos — Marco Teórico
-
 > El neutrino es la partícula que sostiene esta tesis. Sale del corazón de un núcleo galáctico activo, cruza el universo en línea recta sin desviarse ni absorberse, y al llegar al hielo antártico delata que allá dentro se aceleran protones. Este marco reúne lo que hay que entender sobre él: de la física de partículas a su papel como mensajero cósmico.
 
 ## Por qué este marco

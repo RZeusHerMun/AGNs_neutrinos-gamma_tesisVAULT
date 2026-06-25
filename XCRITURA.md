@@ -75,7 +75,7 @@ Creamos notas nuevas con los cambios que se realizan y por que es que se estan t
 ### Avances y reuniones
 - [[Avances Tesis]] — Reuniones, scrambling, mejoras propuestas
 - [[All/Problemas]] — Issues y correcciones
-- [[Inicio Diario - Launch Jupy]] — Workflow diario (conda, Jupyter)
+- [[Inicio Diario - Launch Jupy - versionsGIT]] — Workflow diario (conda, Jupyter)
 
 ### Papers y síntesis
 - [[Síntesis de Tesis - Multifrequency study of Very High Energy emitter Active Galactic Nuclei observed with HAWC - FerJosue Umeña|Síntesis Tesis Ureña]]
