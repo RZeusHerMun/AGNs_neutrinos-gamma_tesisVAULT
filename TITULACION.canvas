@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"23b3662e9ce4978e","type":"text","text":"\r\n","x":-641,"y":-586,"width":250,"height":60},
+		{"id":"9e77138853694e21","type":"text","text":"# **TITULO DE FÍSICO**","x":-120,"y":-160,"width":365,"height":72,"color":"#c36f6f"},
+		{"id":"321565156f4055a0","type":"text","text":"## PP","x":-280,"y":-380,"width":250,"height":60},
+		{"id":"6321fc0306232795","type":"text","text":"## Respuesta positiva antes del 10 de febrero","x":-894,"y":-440,"width":334,"height":90},
+		{"id":"b85c1b73b4f2c587","type":"text","text":"## Firma de PP para finales de verano","x":-800,"y":-280,"width":312,"height":80},
+		{"id":"c2088ed7024fb123","type":"text","text":"## EX DE TESIS","x":260,"y":100,"width":250,"height":60},
+		{"id":"75a8aa4cc058fb19","type":"text","text":"## 1. Primera versión de la investigacion\n","x":372,"y":-416,"width":408,"height":96},
+		{"id":"c009e20d6db808d0","type":"text","text":"## Certificado de estudios","x":560,"y":-269,"width":350,"height":58},
+		{"id":"ec330cbb88495ca1","type":"file","file":"Anexos/Quieres titularte en la FCFM.pdf","x":-782,"y":-60,"width":662,"height":480},
+		{"id":"db9cfb0095dde00c","type":"text","text":"#### Realizar la afiliación de A3\n- [x] Correo a la direccion de SS\n- [x] Papeles firmados\n\t- [x] comprobantes de domicilio\n\t- [x] carta \n\t- [x] documento fuente","x":-840,"y":-840,"width":312,"height":308},
+		{"id":"0b53be7390a50460","type":"file","file":"Anexos/Pasted image 20260127101930.png","x":710,"y":-117,"width":400,"height":297},
+		{"id":"d8851d68231cc574","type":"file","file":"Anexos/Pasted image 20260127101948.png","x":710,"y":180,"width":400,"height":292},
+		{"id":"fc2e2d94b90fabf4","type":"text","text":"[Manual de usuario trámites Autoservicios](https://escolar.buap.mx/sites/default/files/2022/Manuales/Manual%20de%20usuario.pdf)\npara tramite de certificado","x":-606,"y":472,"width":306,"height":88},
+		{"id":"f8968ca4490fa04d","type":"text","text":"[Trámites de Licenciatura | FCFM-BUAP](https://www.fcfm.buap.mx/servicios/tramites)\n\n![[Pasted image 20260127102328.png]]","x":260,"y":300,"width":270,"height":208},
+		{"id":"7440de2d5e8f4d22","type":"text","text":"#### Docs para PP\n- [x] CSF no mayor a 2 meses\n- [x] INE vigente\n- [x] Comprobante de dom de la empresa con la misma direccion de la csf\n- [x] Curriculum empresarial\n- [x] Curriculuum de la persona física\n- [x] Oficio en membrete\n\t- [ ] Carta dirigida al Director de SS\n\t- [ ] Informar el compromiso mensual a los prestadores por 1200\n\t- [ ] Mencionar el lugar\n\t- [ ] Agregar fotos de la fachada e interior \n\t- [ ] Firma y sello","x":-422,"y":-1120,"width":392,"height":500},
+		{"id":"d714482174306bd0","type":"text","text":"TITULACION.canvas\nobsidian://open?vault=Second%20Brain&file=TITULACION.canvas\nC:\\Users\\el_he\\Documents\\Second Brain\\TITULACION.canvas","x":80,"y":-840,"width":364,"height":130}
+	],
+	"edges":[
+		{"id":"2dcff04ca3cd1e1b","fromNode":"9e77138853694e21","fromSide":"top","toNode":"321565156f4055a0","toSide":"bottom"},
+		{"id":"db07cd0a00367076","fromNode":"9e77138853694e21","fromSide":"bottom","toNode":"c2088ed7024fb123","toSide":"top"},
+		{"id":"8714795740f58167","fromNode":"db9cfb0095dde00c","fromSide":"right","toNode":"321565156f4055a0","toSide":"left"},
+		{"id":"c2b8979c0dc02355","fromNode":"6321fc0306232795","fromSide":"right","toNode":"321565156f4055a0","toSide":"left"},
+		{"id":"67cfed458796a529","fromNode":"c2088ed7024fb123","fromSide":"left","toNode":"ec330cbb88495ca1","toSide":"right"},
+		{"id":"e891800466680ea1","fromNode":"c2088ed7024fb123","fromSide":"right","toNode":"0b53be7390a50460","toSide":"left"},
+		{"id":"96ffb7c567c9c0c8","fromNode":"c2088ed7024fb123","fromSide":"bottom","toNode":"f8968ca4490fa04d","toSide":"top"},
+		{"id":"bf79a2d5578ff71e","fromNode":"ec330cbb88495ca1","fromSide":"bottom","toNode":"fc2e2d94b90fabf4","toSide":"top"},
+		{"id":"c3f70f598206b06d","fromNode":"321565156f4055a0","fromSide":"top","toNode":"7440de2d5e8f4d22","toSide":"bottom"}
+	]
+}

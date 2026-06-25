@@ -1,0 +1,1 @@
+![[flujo de agn con CTA y MAGIC.png]]

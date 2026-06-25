@@ -1,0 +1,66 @@
+---
+status: activo
+tags: [tesis/escritura, tesis/asesor, tesis/correcciones]
+---
+# Comentarios del Asesor — Dr. Daniel Rosa González (INAOE)
+
+> Compilación de todos los comentarios del PDF "Avances Tesis" y reuniones.
+> Marcar con ✅ cuando se resuelva, con la fecha y la nota donde se implementó.
+
+---
+
+## Introducción
+
+| # | Comentario | Estado | Nota afectada |
+|---|-----------|--------|---------------|
+| 1 | "ESTO ESTÁ MUY VAGO... TIENES QUE DAR ALGÚN DETALLE DE A QUÉ MODELOS TEÓRICOS TE REFIERES" → Nombrar SSC, foto-hadrónico pγ, pp explícitamente | ⬜ Pendiente | [[I. Introducción]] |
+| 2 | "VEO QUE AÑADISTE FERMI... ¿TIENES ALGÚN CATÁLOGO QUE ESTÉS USANDO?" → Especificar 3FHL y propuesta 4FHL | ⬜ Pendiente | [[I. Introducción]], [[III.ii Fermi-LAT]] |
+| 3 | "DA UNA REFERENCIA MÁS SÓLIDA" → sobre la muestra de Ureña, citar el paper/tesis específico | ⬜ Pendiente | [[I. Introducción]] |
+
+## Marco Teórico
+
+| # | Comentario | Estado | Nota afectada |
+|---|-----------|--------|---------------|
+| 4 | "A LAS MÁS ALTAS ENERGÍAS LOS PROCESOS LEPTÓNICOS NO PUEDEN EXPLICAR LOS FLUJOS OBSERVADOS" → Mencionar Klein-Nishina | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 5 | "LOS LEPTÓNICOS NO PRODUCEN NEUTRINOS" → Corregir "despreciables" → ninguno | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 6 | "AMBOS DOS PRODUCEN NEUTRINOS?" → NO, solo el hadrónico | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 7 | "DESPRECIABLES, O NINGUNO?" → Ninguno (leptónico puro) | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+
+## Estructura y Orden
+
+| # | Comentario | Estado | Nota afectada |
+|---|-----------|--------|---------------|
+| 8 | "ESTE CAPÍTULO SOBRE LOS AGNs EN GENERAL DEBE IR MÁS CERCA DEL PRINCIPIO" → Mover clasificación unificada antes de mecanismos de emisión | ⬜ Pendiente | [[II.i Fenomenología de los AGNs]] |
+| 9 | "COMO EN EL..." → Comentario cortado sobre radiación EM (pedir aclaración) | ❓ Preguntar al asesor | [[II.iii Radiación y Mecanismos de Emisión]] |
+
+## Figuras
+
+| # | Comentario | Estado | Nota afectada |
+|---|-----------|--------|---------------|
+| 10 | "ESTA GRÁFICA... ¡IMPOSIBLE DE LEER!" → Rehacer gráfica del índice/estructura | ⬜ Pendiente | General |
+
+## Física
+
+| # | Comentario | Estado | Nota afectada |
+|---|-----------|--------|---------------|
+| 11 | "...Y CUALQUIER CUERPO, INCLUIDOS NOSOTROS A 36 GRADOS!!!" → Incluir que todo cuerpo emite radiación térmica | ✅ Integrado en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+
+## Datos
+
+| # | Comentario | Estado | Nota afectada |
+|---|-----------|--------|---------------|
+| 12 | "¿POR QUÉ SOLO ESTOS DOS?" → Justificar uso exclusivo de bines B0 y B1 | ⬜ Pendiente (justificación: espectros blandos por EBL + traslape con Fermi) | [[III.i HAWC]] |
+
+---
+
+## Resumen de estado
+
+- ✅ Resueltos: 5 (comentarios 4, 5, 6, 7, 11)
+- ⬜ Pendientes: 6 (comentarios 1, 2, 3, 8, 10, 12)
+- ❓ Por aclarar: 1 (comentario 9)
+
+---
+
+## 🔗 Conexiones
+- Todas las notas de escritura referencian este documento
+- Hub: [[XCRITURA]]

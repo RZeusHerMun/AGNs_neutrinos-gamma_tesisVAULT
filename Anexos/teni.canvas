@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"0b14b0e0f6f6c0c1","type":"text","text":"# VERDE","x":-453,"y":-280,"width":153,"height":80,"color":"4"},
+		{"id":"2a82f17dc44a6c6f","type":"text","text":"## NARANJA","x":-180,"y":-240,"width":167,"height":84},
+		{"id":"6f3346ca350fdfc2","type":"text","text":"### AMARILLO","x":180,"y":-120,"width":250,"height":60},
+		{"id":"8ae238aa5fc8315c","type":"file","file":"Pasted image 20260531232602.png","x":180,"y":20,"width":400,"height":250},
+		{"id":"ba8f248e91a50c5c","type":"file","file":"Pasted image 20260531232816.png","x":180,"y":300,"width":400,"height":250},
+		{"id":"f6c2a06e3789c145","type":"file","file":"Pasted image 20260531232832.png","x":-1080,"y":-135,"width":827,"height":476},
+		{"id":"3580ab53231b021d","type":"file","file":"Pasted image 20260531232846.png","x":-640,"y":-660,"width":648,"height":350},
+		{"id":"56a1e138f8cac5c9","type":"file","file":"Pasted image 20260531234342.png","x":640,"y":-240,"width":400,"height":185},
+		{"id":"bac857a8e7437ef5","type":"file","file":"Pasted image 20260531234407.png","x":230,"y":-410,"width":400,"height":170},
+		{"id":"003cb5a81d671123","type":"file","file":"Pasted image 20260531232701.png","x":-680,"y":180,"width":875,"height":454}
+	],
+	"edges":[
+		{"id":"eacaf0ebc22f8f82","fromNode":"6f3346ca350fdfc2","fromSide":"bottom","toNode":"8ae238aa5fc8315c","toSide":"top"}
+	]
+}

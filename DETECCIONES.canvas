@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"cf0a1eea575db556","x":-395,"y":-177,"width":415,"height":537,"type":"text","text":"HAWC fhit Pass 5 (135 + TEXS 0506)\n\nMuestra inicial de 3FHL con criterios:\n- Solo AGN asociados o identificados\n- **z<0.3**\n- cenit<40°): ~138 fuentes\n\nExclusiones por AGN sin redshift (~15 a 20%)\nExclusiones por contaminación: 3 fuentes\n- 3FHL J1105.8+3944 (5BZG J1105+3946) → muy cerca de Mrk 421\n- 3FHL J1100.3+4020 (RX J1100.3+4019) → muy cerca de Mrk 421\n- 3FHL J1652.7+4024 (SDSS J1652+4024) → muy cerca de Mrk 501\n\nMuestra final: **135 fuentes**\n"}
+	],
+	"edges":[]
+}
