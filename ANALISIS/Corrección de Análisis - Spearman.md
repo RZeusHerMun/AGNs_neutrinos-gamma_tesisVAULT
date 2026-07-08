@@ -15,25 +15,21 @@ ultima actualizacion: 2026-06-18
 
 # Corrección y profundización — Correlación de Spearman (TS HAWC vs N neutrinos)
 
-> [!summary] Veredicto en tres líneas
-> 1. **El ρ = −0.831 es un artefacto de código, no un resultado físico.** Lo demostramos numéricamente: el valor depende del *orden de las filas* del catálogo, cosa que un estadístico válido nunca debe hacer.
+> [!summary] Veredicto:
+> 1. **El ρ = −0.831 es un artefacto de código, no un resultado físico.** Se demostró numéricamente: el valor depende del *orden de las filas* del catálogo, cosa que un estadístico válido nunca debe hacer.
 > 2. **La corrección propuesta (usar `scipy.stats.spearmanr`) es correcta** y suficiente para eliminar el bug: el ρ colapsa a ≈ 0 (sin correlación), que es lo coherente con el resto de la tesis. Si en cambio usamos np.
-> 3. **Pero tu instinto también es correcto:** con datos tan inflados de ceros, Spearman no debería ser el test *primario*. Se queda como prueba *exploratoria* (bien calculada) y el peso recae en el conteo + Monte Carlo y, opcionalmente, en una **razón de verosimilitud apilada** (estándar IceCube).
+> 3. Spearman no busca ser el test *primario*. Se queda como prueba *exploratoria* (bien calculada) y el peso recae en el conteo + Monte Carlo y, opcionalmente, en una **razón de verosimilitud apilada** (estándar IceCube).
 
 Archivos generados en esta revisión:
 - Script listo para pegar: [[correccion_spearman_celdas.py]]
-- Figura conceptual (éxito vs realidad): `All/figuras/spearman_exito_vs_realidad.png`
-- Figura diagnóstica del bug: `All/figuras/spearman_diagnostico_bug.png`
+- Figura conceptual (éxito vs realidad): ![[spearman_exito_vs_realidad.png]]
+- Figura diagnóstica del bug: ![[spearman_diagnostico_bug.png]]
 
 ---
 
 ## 1. Fundamentos: qué mide Spearman (y qué NO)
 
-### 1.1 Monotonía ≠ inyectividad
-
-Esta es la confusión de raíz, y es importante despejarla porque condiciona toda la interpretación.
-
-- **Inyectividad** es una propiedad de una *función* $f$: que valores distintos de entrada den salidas distintas ($x_1 \neq x_2 \Rightarrow f(x_1)\neq f(x_2)$). **No tiene nada que ver con Spearman.** Probablemente el término se coló por error; en Spearman la palabra relevante es *monótona*.
+### 1.1 Monotonía 
 - **Monotonía** es lo que mide Spearman: si al *ordenar* los AGN por brillo (TS), su número de neutrinos tiende a *crecer* (monótona creciente, $\rho>0$) o a *decrecer* (monótona decreciente, $\rho<0$), sin exigir que la relación sea una recta. Puede ser exponencial, logarítmica o escalonada: a Spearman solo le importa el **orden (rango)**, no la forma de la curva.
 
 El mecanismo operativo: Spearman es simplemente la **correlación de Pearson aplicada a los rangos** en lugar de a los valores crudos. Se sustituye cada dato por su posición ordenada (1.º, 2.º, 3.º…) y se mide cuán alineadas van ambas listas de posiciones.
@@ -42,7 +38,7 @@ $$
 \rho_s = 1 - \frac{6\sum_i d_i^2}{n(n^2-1)}, \qquad d_i = R(x_i) - R(y_i)
 $$
 
-donde $R(\cdot)$ es el rango. **Atención:** esta fórmula cerrada es un *atajo* que **solo es válido cuando NO hay empates**. Con empates hay que usar rangos promedio y la correlación de Pearson sobre ellos (ver §3). Esta es exactamente la fuente del error de la tesis.
+donde $R(\cdot)$ es el rango. **Atención:** esta fórmula cerrada es un *atajo* que **solo es válido cuando NO hay empates**. Con empates hay que usar rangos promedio y la correlación de Pearson sobre ellos (ver §3). *Esta es la fuente del error.*
 
 ### 1.2 ¿Qué tiene que ver con la "función de probabilidad"?
 
@@ -96,8 +92,7 @@ El valor dependía de el orden de las filas del catálogo de el brillo gamma, es
 | "Eso introduce *ruido* que invierte la correlación" | ⚠️ **Impreciso.** No es ruido aleatorio (eso daría $\rho\approx0$). Es un **artefacto determinista** que necesita *dos* ingredientes (ver §3.2) |
 | "El ajuste rojo positivo contradice el ρ negativo → algo está mal" | ✅ Buena intuición diagnóstica |
 
-### 3.2 El mecanismo exacto (lo verificamos numéricamente)
-
+### 3.2 El mecanismo de calcular rangos     
 El `np.argsort(np.argsort(x))` calcula rangos **ordinales** (0,1,2,…,n−1, todos distintos). Cuando hay empates —los ~90 % de ceros— les asigna rangos distintos **según su posición en el arreglo**, no el rango promedio que les corresponde:
 
 ![[spearman_diagnostico_bug.png]]

@@ -141,8 +141,7 @@ Donde para cada neutrino **i**:
 	
 Para q? 
 	- *SIGNIFICANCIA COMPROBABLE* en terminos de TS y de sigmas.
-	- Serviría para *cuantificar* mis detecciones, ashora no solo diría que tengo coincidencias espaciales si no q estan relaciona
-	- dos por un analisis de de pesos-detccion.
+	- Serviría para *cuantificar* mis detecciones, ashora no solo diría que tengo coincidencias espaciales si no q estan relacionados por un analisis de de pesos-detccion.
 	- Uso toda la informacion disponible, no solo coordenadas.
 	- Jerarquizo las detecciones y comparación mas técnica
 
@@ -180,10 +179,6 @@ Informacion Temporal que me serviría:
 ___
 
 # ESTADISTICA COMPLETA - 26 MARZO 2026
-
-
-
-
 
 # Índice actual.
 ![[Pasted image 20251120105216.png]]

@@ -8,8 +8,7 @@ date: 2026-01-06
 - Se sabe que los rayos gamma UHE pueden provenir de una producción leptónica (Inverse Compton) o hadrónica (mediante decaimiento de piones). Para determinar la forma de emisión es necesario hacer multimensajero.
 	- Neutrinos solo se producen mediante vía hadrónica.
 	- La correlación da 24 coincidencias (p>0.05)
-- La resolucion angular de los dos inctrumentos usados no permite qsegurar que las coincidencias son de la misma fuente astrofísica. 
-- Se necesita más sensibilidad
+- La resolucion angular de los dos inctrumentos usados no permite qsegurar que las coincidencias son de la misma fuente astrofísica. %% misma conclusión que debo mantener%% por lo tanto: **Se necesita más sensibilidad**
 
 ## Q implementan
 - Optimización en la obtención y clasificación de eventos UHE en rayos gamma

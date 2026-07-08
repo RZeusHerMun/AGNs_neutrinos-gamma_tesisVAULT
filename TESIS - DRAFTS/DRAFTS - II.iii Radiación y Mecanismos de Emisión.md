@@ -43,7 +43,7 @@ Procesos no térmicos relevantes:
 - Colisiones pγ (protón-fotón) y pp (protón-protón)
 - Piones: π⁰ → rayos gamma, π± → muones + neutrinos
 - **Predicción clave**: relaciones energéticas específicas entre flujo gamma y flujo de neutrinos
-- La detección de neutrinos asociados a flares gamma = evidencia directa de procesos hadrónicos
+- La detección de neutrinos asociados a flares gamma = evidencia directa de procesos hadrónicos.
 
 ## EBL (Extragalactic Background Light)
 

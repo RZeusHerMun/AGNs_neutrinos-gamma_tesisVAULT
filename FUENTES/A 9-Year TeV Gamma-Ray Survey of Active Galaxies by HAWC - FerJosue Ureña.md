@@ -5,22 +5,22 @@
 ## S 1 — Fundamento Teórico
 
 ### **Naturaleza de los Núcleos Galácticos Activos**
-
 **Traducción:** "Los núcleos galácticos activos (AGN) son fuentes compactas localizadas en el centro de algunas galaxias con una luminosidad mayor que la esperada de procesos estelares, la cual es impulsada por un agujero negro supermasivo acretante (SMBH, ~10⁶ - 10¹¹ M☉). *Los AGNs son las fuentes más comunes de rayos gamma* extragalácticos, tanto en bandas de alta energía (HE, ~10⁶ - 10¹¹ eV) como de muy alta energía (**VHE >10¹¹ eV**). Entre los múltiples tipos de AGN, la mayoría de aquellos que emiten rayos gamma son AGNs radio-ruidosos, incluyendo objetos BL Lac, cuásares de espectro plano (FSRQ), y radiogalaxias. Los AGNs radio-ruidosos usualmente muestran jets relativistas, los cuales se consideran la fuente de emisión de rayos gamma."
 
 ### **Disección Profunda: La Física de los Agujeros Negros Supermasivos**
 
 #### **A. El Mecanismo Central: Acreción y Liberación Gravitacional**
 
-Cuando el artículo dice que la luminosidad está "impulsada por un agujero negro supermasivo acretante", está invocando uno de los procesos más eficientes de conversión de masa en energía del universo:
+dice que la luminosidad está "impulsada por un agujero negro supermasivo acretante". Fundamento del proceso termodinámico:
 
-**Fundamentos termodinámicos:**
-La **eficiencia de conversión** masa-energía por acreción es:
-- **η ≈ 0.1-0.42** (10-42% de la masa en reposo se convierte en energía)
-- Para contexto: fusión nuclear en estrellas η ≈ 0.007 (0.7%)
-- Un SMBH acretante es **15-60 veces más eficiente** que la fusión estelar
+	La **eficiencia de conversión** masa-energía por acreción es:
+		- **η ≈ 0.1-0.42** (10-42% de la masa en reposo se convierte en energía)
+		- Para contexto: fusión nuclear en estrellas η ≈ 0.007 (0.7%)
+	- Un SMBH acretante es **15-60 veces más eficiente** que la fusión estelar
+	
+> el mecanismo de acreción es uno de los procesos más eficientes de conversión de masa en energía del universo.
 
-**La física subyacente:**
+**Cual es la física que fundamenta el proceso?**
 Cuando la materia cae hacia el agujero negro:
 1. **Conservación del momento angular:** La materia no puede caer directamente, forma un disco de acreción
 2. **Viscosidad y fricción:** Las capas del disco rozan entre sí, generando calor tremendo

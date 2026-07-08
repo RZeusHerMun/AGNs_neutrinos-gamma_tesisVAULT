@@ -48,7 +48,7 @@ Los flares son particularmente relevantes para este estudio porque representan l
 
 ---
 
-## Conexiones
+  Conexiones
 - Anterior: [[DRAFTS - I. Introducción]]
 - Siguiente: [[DRAFTS - II.ii Jets Relativistas]]
 - Clasificación de blazares: [[Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino]]

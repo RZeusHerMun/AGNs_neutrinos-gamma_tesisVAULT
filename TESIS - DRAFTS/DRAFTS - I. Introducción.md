@@ -10,7 +10,7 @@ tags: [tesis/escritura, tesis/introduccion]
 
 ---
 
-## Planteamiento
+## Planteamientooo
 
 - Astronomía multimensajera como ventana de investigación a los procesos más energéticos del universo.
 - Planteamiento del problema sobre la ambigua descripción de la naturaleza de los AGNs, sus emisiones de muy alta energía y la dificultad de encontrar un modelo (leptónico o hadrónico) que puedan explicarlos. 

@@ -1,12 +1,13 @@
+Al hablar de un modelo nulo nos referimos al modelado de datos que nos proporciona un modelo al azar. El modelo nulo es el que construimos con las $1 X10^4$ iteraciones del montecarlo.
 ## El problema que queremos resolver
 
 La pregunta fundamental es: "¿Los AGNs de HAWC están más cerca de neutrinos de IceCube de lo que esperaríamos por puro azar?"
 
 Para responder eso necesitas un modelo nulo — una simulación de cómo se verían las coincidencias si **no hubiera ninguna relación física** entre AGNs y neutrinos. Comparas tus datos reales contra ese modelo nulo, y si hay un exceso significativo, tienes evidencia de correlación.
 
-El problema es que "azar" no significa lo mismo dependiendo de qué modelo nulo uses.
+que sea un modelo un poco al azar, no significa lo mismo dependiendo de qué modelo nulo uses.
 
-## Modelo isotrópico: qué hace y por qué falla
+## Modelo isotrópico: qué hace y por qué falla??
 
 En tu análisis previo, el modelo nulo decía: "si los AGNs estuvieran distribuidos aleatoriamente por toda la esfera celeste, ¿cuántas coincidencias habría?"
 

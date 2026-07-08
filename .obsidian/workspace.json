@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "6c792936c0db1430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino"
+            }
+          },
+          {
             "id": "4308309c7e63bd83",
             "type": "leaf",
             "pinned": true,
@@ -40,35 +54,7 @@
             }
           },
           {
-            "id": "d7a678d1efac2aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avances Tesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Avances Tesis"
-            }
-          },
-          {
-            "id": "9df1a3b039f5d03d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All/Problemas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problemas"
-            }
-          },
-          {
-            "id": "c835851cef43c357",
+            "id": "fa94af7c56b72752",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,9 +66,86 @@
               "icon": "lucide-file",
               "title": "Neutrinos - Marco Teórico"
             }
+          },
+          {
+            "id": "4c4e38317404e3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FUENTES/A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña"
+            }
+          },
+          {
+            "id": "5cbefcb83bc6a9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANALISIS/Modelo nulo de banda HAWC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo nulo de banda HAWC"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "7f8513bbe77d1a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb3f2dcd10219ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESIS - DRAFTS/DRAFTS - I. Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRAFTS - I. Introducción"
+            }
+          },
+          {
+            "id": "57acbc6139195c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRAFTS - II.i Fenomenología de los AGNs"
+            }
+          },
+          {
+            "id": "9e4a91db5c4e2c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRAFTS - II.ii Jets Relativistas"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "producción neutrino",
+                "query": "emisión",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 200
   },
   "right": {
     "id": "dcd74437142f6649",
@@ -148,6 +211,7 @@
       {
         "id": "529775abc1987603",
         "type": "tabs",
+        "dimension": 52.43055555555556,
         "children": [
           {
             "id": "88b3c4e0185f3584",
@@ -174,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corrección de Análisis - Spearman.md",
+                "file": "All/Neutrinos/Neutrino en el Modelo Estándar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Corrección de Análisis - Spearman"
+              "title": "Enlaces salientes de Neutrino en el Modelo Estándar"
             }
           },
           {
@@ -217,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inicio Diario - Launch Jupy - versionsGIT.md",
+                "file": "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Inicio Diario - Launch Jupy - versionsGIT"
+              "title": "Esquema de DRAFTS - II.i Fenomenología de los AGNs"
             }
           },
           {
@@ -237,11 +301,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "f69c58189f4d4a83",
         "type": "tabs",
+        "dimension": 47.56944444444444,
         "children": [
           {
             "id": "8c6a24bc5cf6a90f",
@@ -257,8 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,135 +336,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "3ecc0533ecee83f0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "df91d420efcd6d78",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c6b217e1cea8275",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "450b2ead17ae0997",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "IceCube_SeminarINFN_Rome_Zegarelli"
-                }
-              },
-              {
-                "id": "5167710e5cb077a2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "All/Neutrinos/Producción de Neutrinos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Producción de Neutrinos"
-                }
-              },
-              {
-                "id": "98d9e250e023cdbf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Neutrinos - Marco Teórico"
-                }
-              },
-              {
-                "id": "2dd88df2933a8bf3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino"
-                }
-              },
-              {
-                "id": "398fac12d16d8564",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Inicio Diario - Launch Jupy - versionsGIT.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Inicio Diario - Launch Jupy - versionsGIT"
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 864,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "398fac12d16d8564",
+  "active": "57acbc6139195c45",
   "lastOpenFiles": [
-    "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.md",
-    "Pasted image 20260625135453.png",
-    "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
-    "All/Neutrinos/Producción de Neutrinos.md",
     "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
-    "Avances Tesis.md",
+    "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
+    "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
+    "TESIS - DRAFTS/DRAFTS - I. Introducción.md",
     "XCRITURA.md",
+    "TESIS - DRAFTS/DRAFTS - II.iii Radiación y Mecanismos de Emisión.md",
+    "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
+    "ANALISIS/Modelo nulo de banda HAWC.md",
+    "FUENTES/AGN's y blazares multimensajero HAWC+IceCube.md",
+    "Escritura/I. Introducción.md",
+    "TheSis.md",
+    "ANALISIS/Corrección de Análisis - Spearman.md",
+    "FUENTES/A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña.md",
+    "Estadística para Astrodatos/All of Statistics A Concise Course in Statistical Inference.pdf",
+    "FUENTES/The fourth HAWC Catalog of Very-High-Energy Gamma-Ray Sources.pdf",
+    "FUENTES/Sin confirmar 328699.crdownload",
+    "FUENTES/A multimessenger search for ultra high energy gamma rays in coincidence with neutrinos.md",
+    "J2252.0+4031.md",
+    "FUENTES/draft_Survey_Urena2025 .pdf",
+    "Estadística para Astrodatos/Sin confirmar 568506.crdownload",
+    "Avances Tesis.md",
+    "ANALISIS/geometría de detecciones.md",
+    "ANALISIS/Correlación TS vs neutrinos.md",
+    "ANALISIS/Correccion de Bonferroni o Empirica.md",
+    "Inicio Diario - Launch Jupy - versionsGIT.md",
+    "GENERAL reseach.canvas",
+    "Anexos/canvas agns.png",
+    "All/Others/Anexos/canvas agns.md",
+    "All/Neutrinos/Neutrino en el Modelo Estándar.md",
+    "All/Neutrinos/Producción de Neutrinos.md",
+    "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.md",
+    "Anexos/Pasted image 20260625135453.png",
     "TESIS - DRAFTS/DRAFTS - VI. Discusión y Conclusiones.md",
     "All/Problemas.md",
-    "TheSis.md",
-    "Inicio Diario - Launch Jupy - versionsGIT.md",
     "Nuevo Documento de texto.txt",
-    "FUENTES/IceCat-1 -- TheIceCubeEventCatalogofAlertTracks.md",
-    "All/HAWC+IceCube- Fuentes multimensajero.md",
-    "All/Neutrinos/Neutrino - Descripción y Propiedades.md",
-    "All/Polarimetría para Investigación sobre Campos Magnéticos en elementos Interestelares.md",
-    "All/mapa detallado, sección-por-sección del Cpitulo 2 - (Gamma-ray facilities and data).md",
-    "All/Neutrinos/Importancia del Neutrino como Mensajero Cósmico.md",
-    "All/Neutrinos/Detección de Neutrinos.md",
-    "All/Neutrinos/Ciclo de Vida del Neutrino.md",
     "All/Neutrinos",
-    "Escritura/Flujo de Trabajo Multimensajero.md",
-    "TESIS - DRAFTS/DRAFTS - III.iii IceCube.md",
     "Tesis - III.iii IceCube.pdf",
     "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.pdf",
-    "All/Data.md",
-    "Estadística para Astrodatos/All of Statistics A Concise Course in Statistical Inference.pdf",
-    "Escritura/IV. Análisis.md",
-    "TESIS - DRAFTS/DRAFTS - V. Catálogo de Coincidencias.md",
-    "TESIS - DRAFTS/DRAFTS - IV. Análisis.md",
-    "TESIS - DRAFTS/DRAFTS - III.ii Fermi-LAT.md",
     "FUENTES/Searching for new very high-energy blazars candidates with Fermi-LAT (1).pdf",
     "Anexos/Pasted image 20260624113212.png",
     "Anexos/Pasted image 20260616221922.png",
@@ -410,13 +385,7 @@
     "Pasted image 20260531232846.png",
     "Pasted image 20260531232832.png",
     "Pasted image 20260531232816.png",
-    "Pasted image 20260531232701.png",
-    "MARCOS TEÓRICOS",
-    "ANALISIS",
-    "TESIS - DRAFTS",
-    "All/Analisis Estadistico Completo.pdf",
     "Anexos/teni.canvas",
-    "GENERAL reseach.canvas",
     "TITULACION.canvas",
     "DETECCIONES.canvas"
   ]

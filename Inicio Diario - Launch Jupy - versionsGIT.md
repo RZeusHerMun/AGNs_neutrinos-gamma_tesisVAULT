@@ -6,7 +6,7 @@
 
 **La forma correcta de empezar a trabajar cada día es esta:**
 
-1. Abres la terminal negra.
+1. Abres la terminal negra. 
 2. Activas el entorno:    
     ```
     conda activate multi

@@ -10,18 +10,18 @@ tags: [tesis/hub, tesis/escritura]
 ---
 ## Índice de Capítulos
 
-| Cap. | Sección | Estado | Nota |
-|------|---------|--------|------|
-| I | [[DRAFTS - I. Introducción\|Introducción]] | 🟡 Borrador | Falta especificar modelos, dar refs sólidas |
-| II.i | [[DRAFTS - II.i Fenomenología de los AGNs\|Fenomenología de AGNs]] | 🟡 Borrador | Mover clasificación al inicio (asesor) |
-| II.ii | [[DRAFTS - II.ii Jets Relativistas\|Jets Relativistas]] | 🔴 Esqueleto | ¿Sección propia o integrar? |
-| II.iii | [[DRAFTS - II.iii Radiación y Mecanismos de Emisión\|Radiación y Mecanismos]] | 🟡 Borrador | Correcciones leptónico/hadrónico hechas |
-| III.i | [[DRAFTS - III.i HAWC\|HAWC]] | 🟡 Borrador | Justificar B0/B1 pendiente |
-| III.ii | [[DRAFTS - III.ii Fermi-LAT\|Fermi-LAT]] | 🟡 Borrador | Definir 3FHL vs 4FHL |
-| III.iii | [[DRAFTS - III.iii IceCube\|IceCube]] | 🟡 Borrador | Buen contenido |
-| IV | [[DRAFTS - IV. Análisis\|Análisis y Resultados]] | 🟠 En proceso | Resultados completos, falta redacción |
-| V | [[DRAFTS - V. Catálogo de Coincidencias\|Catálogo Multimensajero]] | 🟡 Datos listos | Falta presentación |
-| VI | [[DRAFTS - VI. Discusión y Conclusiones\|Discusión y Conclusiones]] | 🔴 Esqueleto | Se escribe al final |
+| Cap.    | Sección                                                                       | Estado          | Nota                                                                                                   |
+| ------- | ----------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
+| I       | [[DRAFTS - I. Introducción\|Introducción]]                                    | 🟡 Borrador     | Falta especificar modelos, dar refs sólidas                                                            |
+| II.i    | [[DRAFTS - II.i Fenomenología de los AGNs\|Fenomenología de AGNs]]            | 🟡 Borrador     | Mover clasificación al inicio (asesor)                                                                 |
+| II.ii   | [[DRAFTS - II.ii Jets Relativistas\|Jets Relativistas]]                       | 🔴 Esqueleto    | ¿Sección propia o integrar?                                                                            |
+| II.iii  | [[DRAFTS - II.iii Radiación y Mecanismos de Emisión\|Radiación y Mecanismos]] | 🟡 Borrador     | Correcciones leptónico/hadrónico hechas                                                                |
+| III.i   | [[DRAFTS - III.i HAWC\|HAWC]]                                                 | 🟡 Borrador     | Justificar B0/B1 pendiente. Debo hablar de el método que usó Fernando para la selección de la muestra. |
+| III.ii  | [[DRAFTS - III.ii Fermi-LAT\|Fermi-LAT]]                                      | 🟡 Borrador     | Definir 3FHL vs 4FHL                                                                                   |
+| III.iii | [[DRAFTS - III.iii IceCube\|IceCube]]                                         | 🟡 Borrador     | Buen contenido                                                                                         |
+| IV      | [[DRAFTS - IV. Análisis\|Análisis y Resultados]]                              | 🟠 En proceso   | Resultados completos, falta redacción                                                                  |
+| V       | [[DRAFTS - V. Catálogo de Coincidencias\|Catálogo Multimensajero]]            | 🟡 Datos listos | Falta presentación                                                                                     |
+| VI      | [[DRAFTS - VI. Discusión y Conclusiones\|Discusión y Conclusiones]]           | 🔴 Esqueleto    | Se escribe al final                                                                                    |
 
 ---
 

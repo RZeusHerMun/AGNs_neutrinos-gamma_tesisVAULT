@@ -3,7 +3,7 @@ ____
 ## 1. Introducción y Marco Teórico
 
 ### 1.1. Núcleo activo de galaxia (AGN)
-Las **AGN** son regiones extremadamente luminosas en los centros de ciertas galaxias, impulsadas por la acreción de un **agujero negro supermasivo (SMBH)**. Históricamente, los objetos Seyfert fueron identificados en 1943, mientras que los cuásares aparecieron como los núcleos más potentes y compactos alrededor de 1963. La emisión radia desde radio hasta rayos gamma mediante acreción, chorros relativistas, y discos de acreción.
+Las **AGN** son regiones extremadamente luminosas en los centros de ciertas galaxias, impulsadas por la acreción de un **agujero negro supermasivo (SMBH)**. Históricamente, los objetos Seyfert fueron identificados en 1943, mientras que los cuásares aparecieron como los núcleos más potentes y compactos alrededor de 1963. La emisión radia desde radio hasta rayos gamma mediante procesos de acreción de materia y particularmente algunos en chorros relativistas.
 
 ### 1.2. Blazares: BL Lac y FSRQ
 - **Blazares**: AGNs con un jet dirigido casi directamente a la Tierra, lo que provoca un **boosting relativista** que intensifica la luminosidad y acelera la variabilidad.
@@ -11,7 +11,10 @@ Las **AGN** son regiones extremadamente luminosas en los centros de ciertas gala
 	- **FSRQ (Flat-Spectrum Radio Quasar)**: Espectro con líneas prominentes, picos de sincrotrón más bajos, y luminosidad mayor.
 
 ### 1.3. Astrofísica Multimensajero
-La combinación **gamma-ray (emisión EM)** y **neutrinos** abrevent into el proceso de aceleración de rayos cósmicos. Se cree que la interacción foto-hadónica produce piones que decaen en neutrinos y rayos gamma. HAWC:
+La produccion es dominada por mecanismo de [[interaccion protón-protón]] inducida cuando los protones interactúan con material cincurdante como una nube molecular. 
+		- Esto crea piones tanto cargados como neutros, en una proporción de aproximadamente 2:1. Los piones cargados se desintegran luego en neutrinos, cada uno de los cuales tiene una energía que es aproximadamente una cuarta parte de la energía del pión cargado. Los piones neutros se desintegran en rayos gamma que tienen aproximadamente la mitad de la energía del pión. Por lo tanto, existe una diferencia de un factor de dos en la energía de un rayo gamma y la energía de un neutrino creado a través de los mismos mecanismos hadrónicos (Ahlers & Murase 2014; Kelner & Aharonian 2008).[[A multimessenger search for ultra high energy gamma rays in coincidence with neutrinos]]
+
+La combinación **gamma-ray (emisión EM)** y **neutrinos** abrevent into el proceso de aceleración de rayos cósmicos. Se cree que la interacción foto-hadrónica produce piones que decaen en neutrinos y rayos gamma. HAWC:
 	 - gammas TeV (0.1–100 TeV) 
 	 - amplio campo de visión 
 	 - alta disponibilidad; 
@@ -21,6 +24,7 @@ IceCube:
 ## HAWC e IceCube
 
 - **HAWC** (High Altitude Water Cherenkov): monitorea el cielo norte en TeV gamma, generando catálogos como 3HWC con posiciones y espectros de ~65 fuentes.
+	- [[]]
 
 - **IceCube**: emite alertas “Gold” (~>50 % probabilidad astrofísica) y “Bronze” (~30–50 %) tras captar eventos de alta energía, mediante GCN/AMON 
 

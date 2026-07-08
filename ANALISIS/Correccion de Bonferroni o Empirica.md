@@ -1,26 +1,19 @@
-¡Qué buen ojo tienes! Estas son exactamente las preguntas capciosas que hace un comité de tesis para ver si el estudiante entiende la estadística o solo corrió un script. Tus dudas son súper válidas, vamos a desmenuzar ambas porque revelan detalles muy importantes de tu análisis.
+### ¿El radio de $3.0^\circ$ le quita valor a los radios más pequeños?
 
-### Sobre tu duda 1: ¿El radio de $3.0^\circ$ le quita valor a los radios más pequeños?
-
-La respuesta corta es: **No le quita valor, porque cada radio se evalúa como un experimento independiente frente a su propio fondo esperado.**
-
+**No le quita valor, porque cada radio se evalúa como un experimento independiente frente a su propio fondo esperado.**
 Veámoslo con los números de tu tabla comparativa (Banda HAWC):
-
-- En $\theta = 0.5^\circ$: Observaste 1 coincidencia. El azar esperaba 1.4. Tu p-value fue $0.7515$.
-    
+- En $\theta = 0.5^\circ$: Observaste 1 coincidencia. El azar esperaba 1.4. Tu p-value fue $0.7515$. 
 - En $\theta = 3.0^\circ$: Observaste 39 coincidencias. El azar esperaba 38.2. Tu p-value fue $0.4723$.
-    
 
 **¿Por qué el mínimo p-value ocurrió en $3.0^\circ$?** No es porque $3.0^\circ$ sea "mejor", sino porque a ese radio, la cantidad de coincidencias reales (39) estuvo marginalmente más "arriba" del fondo esperado (38.2) en comparación con el radio de $0.5^\circ$, donde observaste _menos_ coincidencias de las esperadas por el azar.
 
-Tienes toda la razón en que $3.0^\circ$ es mucho margen y captura demasiado "ruido" de fondo. Físicamente, incluir radios grandes se justifica porque las reconstrucciones de las trazas de neutrinos de IceCube a veces tienen incertidumbres angulares del orden de grados. Probar varios "lentes" te asegura no perder una señal difusa, pero estadísticamente te obliga a pagar un precio: el Look-Elsewhere Effect (LEE).
+Tienes toda la razón en que $3.0^\circ$ es mucho margen y captura demasiado "ruido" de fondo. Físicamente, incluir radios grandes se justifica porque *las reconstrucciones de las trazas de neutrinos de IceCube a veces tienen incertidumbres angulares del orden de grados*. Probar varios "lentes" te asegura no perder una señal difusa, pero estadísticamente te obliga a pagar un precio: el [[Look-Elsewhere Effect]] (LEE).
 
 ---
 
-### Sobre tu duda 2: El p-value de Bonferroni en 1.0000 y la corrección empírica
+### El p-value de Bonferroni en 1.0000 y la corrección empírica??
 
 Aquí tienes una ligera confusión (muy común) entre ajustar el **nivel de significancia ($\alpha$)** y ajustar el **p-value**.
-
 La fórmula que tú mencionas:
 
 $$\alpha_{ajustado} = \frac{\alpha_{global}}{n}$$
