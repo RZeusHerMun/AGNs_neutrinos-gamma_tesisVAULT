@@ -60,12 +60,12 @@
 ---
 
 ## [[J0217.1+0836]] vs [[IC230727A]]
-- [cite_start]**Alias:** ZS 0214+083 [cite: 514]
-- [cite_start]**Clase:** [[BLL]] [cite: 515]
-- [cite_start]**Redshift (z):** 0.085 [cite: 515]
-- [cite_start]**TS (Fermi+HAWC):** 14.48 [cite: 515]
-- [cite_start]**IceCube E:** 113 TeV [cite: 515]
-- [cite_start]**Separación Angular:** 1.15° [cite: 516]
+- **Alias:** ZS 0214+083
+- **Clase:** [[BLL]] 
+- **Redshift (z):** 0.085 
+- **TS (Fermi+HAWC):** 14.48 [cite: 515]
+- **IceCube E:** 113 TeV [cite: 515]
+- **Separación Angular:** 1.15° [cite: 516]
 
 ### 📝 Notas de Tesis
 - [cite_start]**Observaciones:** NO ESTABA EN EL TeVCat, es una detección marginal reportada por Ureña[cite: 516].
@@ -194,3 +194,11 @@
 
 **Paneles:**
 ![[J1603.8+1103_paneles_final.png]]
+
+___
+## Detecciones Confirmadas
+
+# TXS 0506- 
+
+## NGC 1068 
+https://www.hansonastronomy.com/m77

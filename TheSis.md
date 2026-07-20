@@ -1,14 +1,14 @@
-  # Tesis - Otoño/Invierno 2025
+    # Tesis - Otoño/Invierno 2025
 Asesor: Dr. Daniel Rosa Gonzalez - INAOE
 Línea de Investigación: AGNs, Emisión multimensajero: Neutrinos & rayos Gamma.
 Colaboración: HAWC - IceCube [[Inicio Diario - Launch Jupy - versionsGIT]] [[Data]] [[Criterios]] [[Problemas]]
 ___
 ### [[XCRITURA]]
+[[Analisis Estadistico Completo.pdf]]
 [[Avances Tesis]]
 [[Problemas]]
 [[Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino]]
 ### Research Focus
-
 - Análisis de galaxias que emiten rayos gamma, que son más propensas a producir neutrinos de alta energía.
 - La investigación se centra en identificar y caracterizar estas galaxias, en lugar de examinar todos los catálogos de galaxias.
 - Existen dos modelos teóricos para explicar la emisión de neutrinos de alta energía y rayos gamma (incluida la radiación sincrotrón y la dispersión Compton inversa). Nosotros no  specificaremos como lo hacen estas galaxias, solo buscaremos detalllar el funcionamiento de estos procesos en las distintas galaxias.
@@ -20,9 +20,8 @@ ___
 - **Comparar las características con dos galaxias ya detectadas en observaciones de neutrinos.**
 ### Methodology Guidance
 
-- **El análisis debe centrarse en las coincidencias espaciales y temporales de estos objetos.**
-- No es necesario aplicar modelos teóricos a cada galaxia (sería demasiado laborioso).
-- Se puede incluir una breve explicación de los procesos físicos en la introducción, pero no debe ser el tema principal.
+- **El análisis debe centrarse en las coincidencias espaciales %%y temporales (en realidad no me dió tiempo de hacer análisis temporal)%% de estos objetos.**
+- No es necesario aplicar modelos teóricos a cada galaxia, pero se buscará hacer un repaso final para cada coincidencia (o al menos las más significantes).
 - **El alcance debe limitarse a responder a una pregunta de investigación específica, sin abarcarlo todo.**
 
 ### Action Items
@@ -75,12 +74,12 @@ La autora analiza cuatro AGNs (tres Seyfert y un blazar) y
 - CLAUDE: Organizacion y sustento.
 
 ## Galaxias Activas
-![[AGNs|1000]]
+![[canvas agns.png|1000]]
 
 
 ## Luz, radiación e interacción 
 
-![[LuzRadiacionEspectroElectromagnetico|5000]]
+![[canvas luz de agns]]
 
 Fuentes:
 [Fundamental Astronomy, H. Karttunen, P. Kröger, H. Oja, M. Poutanen.pdf](file:///V:/Lic.%20F%C3%ADsica/8vo%20Semestre/Astrof%C3%ADsica/Fundamental%20Astronomy,%20H.%20Karttunen,%20P.%20Kr%C3%B6ger,%20H.%20Oja,%20M.%20Poutanen.pdf)  

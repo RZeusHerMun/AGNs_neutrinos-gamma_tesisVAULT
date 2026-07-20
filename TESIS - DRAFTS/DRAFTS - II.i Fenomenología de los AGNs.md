@@ -13,7 +13,12 @@ tags: [tesis/escritura, tesis/marco-teorico, agn]
 
 ## Estructura básica de los AGNs 
 
-Un AGN está formado por un agujero negro supermasivo (10⁶–10¹⁰ M☉), un disco de acreción y, en muchos casos, jets relativistas. Cuando el jet se orienta hacia la Tierra, observamos un blazar, que es la clase de AGN dominante en rayos gamma.
+Los núcleos activos de galaxias representan un 10% de las galaxias "normales", son fuentes compactas
+Un AGN está formado por un agujero negro supermasivo (10⁶–10¹⁰ M☉), un disco de acreción y, en muchos casos, jets relativistas. 
+
+Solo el 1% tiene su jet orientado hacia la tierrra.
+
+Cuando el jet se orienta hacia la Tierra, observamos un blazar, que es la clase de AGN dominante en rayos gamma.
 
 Los blazares muestran variabilidad intensa y rápida, lo que indica regiones emisoras compactas y procesos de aceleración eficientes. Estos flares son importantes porque podrían coincidir con producción de neutrinos.
 

@@ -1,0 +1,93 @@
+<svg viewBox="0 0 1010 880" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c2410c"/>
+    </marker>
+  </defs>
+
+  <!-- fondo -->
+  <rect x="0" y="0" width="1010" height="880" rx="16" fill="#f7f8fe" stroke="#d5d8ee"/>
+
+  <!-- título -->
+  <text x="505" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e2145">Cascada conceptual — del fundamento al caso multimensajero</text>
+
+  <!-- anillos concéntricos (de afuera hacia adentro) -->
+  <circle cx="400" cy="430" r="380" fill="#dcdff4" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="400" cy="430" r="290" fill="#b9bfe8" stroke="#2e3270" stroke-width="2.5" stroke-dasharray="1 0"/>
+  <circle cx="400" cy="430" r="195" fill="#8d94d2" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="400" cy="430" r="105" fill="#34386e" stroke="#ffffff" stroke-width="3"/>
+
+  <!-- títulos de anillo -->
+  <text x="400" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#2e3270">II.iii Radiación y mecanismos de emisión</text>
+  <text x="400" y="192" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e2145">II.ii Jets relativistas (este marco)</text>
+  <text x="400" y="284" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">II.i Fenomenología de los AGNs</text>
+
+  <!-- núcleo: fundamentos -->
+  <text x="400" y="400" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">FUNDAMENTOS</text>
+  <text x="400" y="422" text-anchor="middle" font-size="13" fill="#e6e7f7">SMBH de Kerr</text>
+  <text x="400" y="441" text-anchor="middle" font-size="13" fill="#e6e7f7">acreción · L_Edd · espín a*</text>
+  <text x="400" y="460" text-anchor="middle" font-size="13" fill="#e6e7f7">E_rot ≤ 0.29 Mc² (Penrose)</text>
+
+  <!-- chips anillo 1: fenomenología -->
+  <g font-size="13" fill="#23264d">
+    <rect x="152" y="348" width="205" height="44" rx="8" fill="#ffffff" stroke="#5c62b0" stroke-width="1.2"/>
+    <text x="254" y="366" text-anchor="middle" font-weight="bold">Modelo unificado</text>
+    <text x="254" y="384" text-anchor="middle">clases según ángulo de visión θ</text>
+
+    <rect x="470" y="348" width="150" height="44" rx="8" fill="#ffffff" stroke="#5c62b0" stroke-width="1.2"/>
+    <text x="545" y="366" text-anchor="middle" font-weight="bold">Jet alineado</text>
+    <text x="545" y="384" text-anchor="middle">θ ≲ 10° → blazar</text>
+
+    <rect x="260" y="570" width="280" height="30" rx="8" fill="#ffffff" stroke="#5c62b0" stroke-width="1.2"/>
+    <text x="400" y="590" text-anchor="middle">Anatomía: disco · corona · BLR · toroide</text>
+  </g>
+
+  <!-- chips anillo 2: jets (este marco) -->
+  <g font-size="13" fill="#23264d">
+    <rect x="35" y="437" width="230" height="46" rx="8" fill="#ffffff" stroke="#2e3270" stroke-width="1.6"/>
+    <text x="150" y="456" text-anchor="middle" font-weight="bold">Extracción de energía</text>
+    <text x="150" y="474" text-anchor="middle">Blandford–Znajek · MAD (η ~ 140 %)</text>
+
+    <rect x="537" y="442" width="225" height="46" rx="8" fill="#ffffff" stroke="#2e3270" stroke-width="1.6"/>
+    <text x="650" y="461" text-anchor="middle" font-weight="bold">Cinemática relativista</text>
+    <text x="650" y="479" text-anchor="middle">Γ ~ 10–30 · δ = [Γ(1−β cos θ)]⁻¹</text>
+
+    <rect x="280" y="652" width="240" height="46" rx="8" fill="#ffffff" stroke="#2e3270" stroke-width="1.6"/>
+    <text x="400" y="671" text-anchor="middle" font-weight="bold">Aceleración de partículas</text>
+    <text x="400" y="689" text-anchor="middle">DSA p ≈ 2–2.2 · reconexión · Hillas</text>
+  </g>
+
+  <!-- chips anillo 3: radiación -->
+  <g font-size="13" fill="#23264d">
+    <rect x="10" y="277" width="210" height="46" rx="8" fill="#ffffff" stroke="#5c62b0" stroke-width="1.2"/>
+    <text x="115" y="296" text-anchor="middle" font-weight="bold">Vía leptónica</text>
+    <text x="115" y="314" text-anchor="middle">sincrotrón + IC → solo fotones</text>
+
+    <rect x="595" y="277" width="200" height="46" rx="8" fill="#ffffff" stroke="#5c62b0" stroke-width="1.2"/>
+    <text x="695" y="296" text-anchor="middle" font-weight="bold">Vía hadrónica</text>
+    <text x="695" y="314" text-anchor="middle">pγ, pp → π⁰ → γγ · π± → ν</text>
+
+    <rect x="290" y="740" width="220" height="46" rx="8" fill="#ffffff" stroke="#5c62b0" stroke-width="1.2"/>
+    <text x="400" y="759" text-anchor="middle" font-weight="bold">Flares = episodios de inyección</text>
+    <text x="400" y="777" text-anchor="middle">→ ventanas temporales ν–γ</text>
+  </g>
+
+  <!-- flecha de profundidad hacia el caso explícito -->
+  <line x1="508" y1="430" x2="793" y2="430" stroke="#c2410c" stroke-width="3.5" stroke-dasharray="8 5" marker-end="url(#arr)" opacity="0.9"/>
+  <text x="650" y="418" text-anchor="middle" font-size="13" font-style="italic" fill="#9a3412">profundidad</text>
+
+  <!-- caja: el caso explícito -->
+  <rect x="802" y="315" width="192" height="230" rx="12" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+  <text x="898" y="343" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a3412">EL CASO EXPLÍCITO</text>
+  <text x="898" y="372" text-anchor="middle" font-size="15" font-weight="bold" fill="#431407">TXS 0506+056</text>
+  <text x="898" y="396" text-anchor="middle" font-size="12.5" fill="#431407">IC-170922A ↔ flare γ</text>
+  <text x="898" y="413" text-anchor="middle" font-size="12.5" fill="#431407">3σ (sept. 2017)</text>
+  <text x="898" y="433" text-anchor="middle" font-size="12.5" fill="#431407">exceso ν 2014–15 (3.5σ)</text>
+  <line x1="818" y1="448" x2="978" y2="448" stroke="#c2410c" stroke-width="1" opacity="0.5"/>
+  <text x="898" y="470" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a3412">Esta tesis:</text>
+  <text x="898" y="489" text-anchor="middle" font-size="12.5" fill="#431407">correlación espacial ν × γ</text>
+  <text x="898" y="507" text-anchor="middle" font-size="12.5" fill="#431407">IceCube × HAWC · Fermi-LAT</text>
+
+  <!-- pie -->
+  <text x="505" y="848" text-anchor="middle" font-size="13" font-style="italic" fill="#4a4e79">Cada anillo retoma los conceptos del anterior y los expande; recorrer las capas con profundidad desemboca en el caso explícito.</text>
+</svg>

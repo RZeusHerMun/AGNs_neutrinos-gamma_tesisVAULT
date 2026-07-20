@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "6041ed3e44deda00",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "All/Analisis Estadistico Completo.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Analisis Estadistico Completo"
+            }
+          },
+          {
             "id": "6c792936c0db1430",
             "type": "leaf",
             "state": {
@@ -54,20 +66,6 @@
             }
           },
           {
-            "id": "fa94af7c56b72752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neutrinos - Marco Teórico"
-            }
-          },
-          {
             "id": "4c4e38317404e3fc",
             "type": "leaf",
             "state": {
@@ -82,38 +80,15 @@
             }
           },
           {
-            "id": "5cbefcb83bc6a9f6",
+            "id": "2d958cad7e63c5ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ANALISIS/Modelo nulo de banda HAWC.md",
-                "mode": "source",
-                "source": false
+                "file": "FUENTES/AGNs Urry & Padovani (1995).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Modelo nulo de banda HAWC"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7f8513bbe77d1a3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aeb3f2dcd10219ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TESIS - DRAFTS/DRAFTS - I. Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DRAFTS - I. Introducción"
+              "icon": "lucide-file-text",
+              "title": "AGNs Urry & Padovani (1995)"
             }
           },
           {
@@ -122,30 +97,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
+                "file": "Avances Tesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DRAFTS - II.i Fenomenología de los AGNs"
+              "title": "Avances Tesis"
             }
           },
           {
-            "id": "9e4a91db5c4e2c0c",
+            "id": "ee88f5c26a8c2f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
+                "file": "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DRAFTS - II.ii Jets Relativistas"
+              "title": "AGNs - Marco Teórico"
+            }
+          },
+          {
+            "id": "ff0795853ff3f0e6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MARCOS TEÓRICOS/Cascada conceptual - Jets Relativistas.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Cascada conceptual - Jets Relativistas"
+            }
+          },
+          {
+            "id": "c72ded354206e60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MARCOS TEÓRICOS/Jets Relativistas - Marco Teórico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jets Relativistas - Marco Teórico"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "dcd74437142f6649",
@@ -281,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
+                "file": "FUENTES/Correlación espacial - Tesis UNAM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de DRAFTS - II.i Fenomenología de los AGNs"
+              "title": "Esquema de Correlación espacial - Tesis UNAM"
             }
           },
           {
@@ -322,7 +323,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,21 +338,91 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57acbc6139195c45",
+  "floating": {
+    "id": "6b4084bc93efc492",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f42dbbf5d2b7148",
+        "type": "window",
+        "children": [
+          {
+            "id": "c5fd06d71d6991a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7889eca8021ececf",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "All/Anexos/cORRELACION cO ESPACIAL DE NEURTINOS Y FUENTES GAMMA - UNAM.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "cORRELACION cO ESPACIAL DE NEURTINOS Y FUENTES GAMMA - UNAM"
+                }
+              },
+              {
+                "id": "c025d4c3e2deae51",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FUENTES/Correlación espacial - Tesis UNAM.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Correlación espacial - Tesis UNAM"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ff0795853ff3f0e6",
   "lastOpenFiles": [
+    "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
+    "FUENTES/Correlación espacial - Tesis UNAM.md",
+    "TheSis.md",
     "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
-    "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
-    "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
-    "TESIS - DRAFTS/DRAFTS - I. Introducción.md",
+    "All/Analisis Estadistico Completo.pdf",
     "XCRITURA.md",
-    "TESIS - DRAFTS/DRAFTS - II.iii Radiación y Mecanismos de Emisión.md",
-    "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
+    "MARCOS TEÓRICOS/Jets Relativistas - Marco Teórico.md",
+    "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
+    "Avances Tesis.md",
+    "FUENTES/AGNs Urry & Padovani (1995).pdf",
+    "FUENTES/A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña.md",
+    "MARCOS TEÓRICOS/Neutrinos - Marco Teórico.md",
+    "All/Criterios.md",
+    "AGNs.md",
+    "FUENTES/Searching for new very high-energy blazars candidates with Fermi-LAT (1).pdf",
+    "FUENTES/PHYSICS OF SEYFERT GALAXIES. Informe del Proyecto S7.md",
+    "FUENTES/Astroparticle Physics.pdf",
+    "All/Others/Anexos/canvas luz de agns.md",
     "ANALISIS/Modelo nulo de banda HAWC.md",
+    "TESIS - DRAFTS/DRAFTS - I. Introducción.md",
+    "Anexos/canvas agns.png",
+    "Inicio Diario - Launch Jupy - versionsGIT.md",
+    "Anexos/Pasted image 20260515181706.png",
+    "All/Anexos/cORRELACION cO ESPACIAL DE NEURTINOS Y FUENTES GAMMA - UNAM.pdf",
+    "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
+    "Pasted image 20260708123546.png",
+    "All/Others/Anexos/canvas agns.md",
+    "TESIS - DRAFTS/DRAFTS - II.iii Radiación y Mecanismos de Emisión.md",
     "FUENTES/AGN's y blazares multimensajero HAWC+IceCube.md",
     "Escritura/I. Introducción.md",
-    "TheSis.md",
     "ANALISIS/Corrección de Análisis - Spearman.md",
-    "FUENTES/A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña.md",
     "Estadística para Astrodatos/All of Statistics A Concise Course in Statistical Inference.pdf",
     "FUENTES/The fourth HAWC Catalog of Very-High-Energy Gamma-Ray Sources.pdf",
     "FUENTES/Sin confirmar 328699.crdownload",
@@ -358,33 +430,14 @@
     "J2252.0+4031.md",
     "FUENTES/draft_Survey_Urena2025 .pdf",
     "Estadística para Astrodatos/Sin confirmar 568506.crdownload",
-    "Avances Tesis.md",
-    "ANALISIS/geometría de detecciones.md",
-    "ANALISIS/Correlación TS vs neutrinos.md",
-    "ANALISIS/Correccion de Bonferroni o Empirica.md",
-    "Inicio Diario - Launch Jupy - versionsGIT.md",
     "GENERAL reseach.canvas",
-    "Anexos/canvas agns.png",
-    "All/Others/Anexos/canvas agns.md",
-    "All/Neutrinos/Neutrino en el Modelo Estándar.md",
-    "All/Neutrinos/Producción de Neutrinos.md",
-    "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.md",
     "Anexos/Pasted image 20260625135453.png",
-    "TESIS - DRAFTS/DRAFTS - VI. Discusión y Conclusiones.md",
-    "All/Problemas.md",
-    "Nuevo Documento de texto.txt",
-    "All/Neutrinos",
-    "Tesis - III.iii IceCube.pdf",
-    "FUENTES/IceCube_SeminarINFN_Rome_Zegarelli.pdf",
-    "FUENTES/Searching for new very high-energy blazars candidates with Fermi-LAT (1).pdf",
     "Anexos/Pasted image 20260624113212.png",
     "Anexos/Pasted image 20260616221922.png",
     "Anexos/Pasted image 20260616212707.png",
     "Pasted image 20260531234407.png",
     "Pasted image 20260531234342.png",
     "Pasted image 20260531232846.png",
-    "Pasted image 20260531232832.png",
-    "Pasted image 20260531232816.png",
     "Anexos/teni.canvas",
     "TITULACION.canvas",
     "DETECCIONES.canvas"

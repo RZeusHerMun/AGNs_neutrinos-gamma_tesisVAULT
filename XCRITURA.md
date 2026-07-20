@@ -1,7 +1,7 @@
 ---
 tags: [tesis/hub, tesis/escritura]
 ---
-# 🔬 Tesis — Hub de Escritura
+ # 🔬 Tesis — Hub de Escritura
 
 **Título:** Correlación de Emisiones de Alta Energía en Núcleos Galácticos Activos: Un Enfoque Multimensajero  
 **Asesor:** Dr. Daniel Rosa González — INAOE  

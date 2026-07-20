@@ -5,6 +5,7 @@ seccion: 2.2
 tags: [tesis/escritura, tesis/marco-teorico, jets]
 ---
 # II.ii Jets Relativistas
+![[Pasted image 20260708123546.png]]
 
 > **Estado:** 🔴 Esqueleto — necesita desarrollo
 > **Decisión pendiente:** ¿Sección propia o integrar en mecanismos de emisión?
