@@ -21,10 +21,11 @@ tags: [tesis/escritura, tesis/asesor, tesis/correcciones]
 
 | # | Comentario | Estado | Nota afectada |
 |---|-----------|--------|---------------|
-| 4 | "A LAS MÁS ALTAS ENERGÍAS LOS PROCESOS LEPTÓNICOS NO PUEDEN EXPLICAR LOS FLUJOS OBSERVADOS" → Mencionar Klein-Nishina | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
-| 5 | "LOS LEPTÓNICOS NO PRODUCEN NEUTRINOS" → Corregir "despreciables" → ninguno | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
-| 6 | "AMBOS DOS PRODUCEN NEUTRINOS?" → NO, solo el hadrónico | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
-| 7 | "DESPRECIABLES, O NINGUNO?" → Ninguno (leptónico puro) | ✅ Corregido en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 4 | "A LAS MÁS ALTAS ENERGÍAS LOS PROCESOS LEPTÓNICOS NO PUEDEN EXPLICAR LOS FLUJOS OBSERVADOS" → Mencionar Klein-Nishina | ✅ Redactado en II.iii (2026-07-21) | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 5 | "LOS LEPTÓNICOS NO PRODUCEN NEUTRINOS" → Corregir "despreciables" → ninguno | ✅ Redactado en II.iii (2026-07-21) | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 6 | "AMBOS DOS PRODUCEN NEUTRINOS?" → NO, solo el hadrónico | ✅ Redactado en II.iii (2026-07-21) | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 7 | "DESPRECIABLES, O NINGUNO?" → Ninguno (leptónico puro) | ✅ Redactado en II.iii (2026-07-21) | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 13 | "…ESO TE DARÍA PIE A DESCRIBIR EL EBL" + resolver cita [CORREGIR CITA] (Domínguez 2011 vs 2019) | ✅ Redactado en II.iii §6; cita fijada en **Domínguez et al. 2011** (2026-07-21) | [[II.iii Radiación y Mecanismos de Emisión]] |
 
 ## Estructura y Orden
 
@@ -43,7 +44,7 @@ tags: [tesis/escritura, tesis/asesor, tesis/correcciones]
 
 | # | Comentario | Estado | Nota afectada |
 |---|-----------|--------|---------------|
-| 11 | "...Y CUALQUIER CUERPO, INCLUIDOS NOSOTROS A 36 GRADOS!!!" → Incluir que todo cuerpo emite radiación térmica | ✅ Integrado en Avances Tesis.md | [[II.iii Radiación y Mecanismos de Emisión]] |
+| 11 | "...Y CUALQUIER CUERPO, INCLUIDOS NOSOTROS A 36 GRADOS!!!" → Incluir que todo cuerpo emite radiación térmica | ✅ Redactado en II.iii §1 (2026-07-21) | [[II.iii Radiación y Mecanismos de Emisión]] |
 
 ## Datos
 
@@ -55,7 +56,7 @@ tags: [tesis/escritura, tesis/asesor, tesis/correcciones]
 
 ## Resumen de estado
 
-- ✅ Resueltos: 5 (comentarios 4, 5, 6, 7, 11)
+- ✅ Resueltos: 6 (comentarios 4, 5, 6, 7, 11, 13) — 4–7, 11 y 13 redactados en [[II.iii Radiación y Mecanismos de Emisión]] (2026-07-21)
 - ⬜ Pendientes: 6 (comentarios 1, 2, 3, 8, 10, 12)
 - ❓ Por aclarar: 1 (comentario 9)
 
