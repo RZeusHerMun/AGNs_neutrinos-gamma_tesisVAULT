@@ -29,8 +29,8 @@ El resumen observacional de todo lo que un blazar radia es su distribución espe
 
 La primera joroba se extiende desde el radio hasta el óptico, el ultravioleta o los rayos X según la fuente, y su origen no está en disputa: es radiación de sincrotrón de electrones relativistas (§3). La posición de su máximo, $\nu_{\rm s}$, ordena a los blazares en una secuencia —de sincrotrón de baja, intermedia y alta frecuencia (LSP, ISP, HSP)— que Abdo et al. (2010) sistematizaron con el primer gran muestreo de Fermi-LAT y que sigue siendo la taxonomía operativa del campo. La segunda joroba cubre desde los rayos X duros hasta los gamma de muy alta energía (VHE, $\gtrsim 100$ GeV), y su origen es justamente el problema abierto que esta tesis ataca: puede ser obra de los mismos electrones (vía leptónica) o de protones acelerados (vía hadrónica). Desde la Tierra, las dos hipótesis producen jorobas gamma parecidas, y distinguirlas con el fotón solo es imposible; hace falta el neutrino. Las dos secciones siguientes desarrollan cada vía.
 
-> [!warning] Figura pendiente
-> Insertar aquí el esquema de la SED de doble joroba de un blazar (joroba de baja energía: sincrotrón; joroba de alta energía: Compton inverso o decaimiento de piones). La imagen `Pasted image 20260121113136.png` que referenciaba el borrador anterior no se encuentra en el vault.
+![[SED multimensajera - doble joroba.png]]
+*Esquema de la SED de doble joroba de un blazar en clave multimensajera. La primera joroba es sincrotrón de electrones; la segunda, Compton inverso (leptónico) o decaimiento de $\pi^0$ (hadrónico), indistinguibles desde el fotón. La vía hadrónica arrastra además una joroba de neutrinos ($\pi^+$) hacia el PeV. Se marcan la atenuación de la cola VHE por la EBL y la cobertura de Fermi-LAT y HAWC (fotones) e IceCube (neutrinos), que se solapan en energía: ahí es donde vive la correlación de esta tesis.*
 
 ## 3. La vía leptónica: sincrotrón, Compton inverso y su techo
 
