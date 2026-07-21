@@ -123,12 +123,14 @@
             "id": "ff0795853ff3f0e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MARCOS TEÓRICOS/Cascada conceptual - Jets Relativistas.svg"
+                "file": "MARCOS TEÓRICOS/Radiación y mecanismos de emisión..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Cascada conceptual - Jets Relativistas"
+              "icon": "lucide-file",
+              "title": "Radiación y mecanismos de emisión."
             }
           },
           {
@@ -392,13 +394,16 @@
   },
   "active": "ff0795853ff3f0e6",
   "lastOpenFiles": [
-    "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
+    "TESIS - DRAFTS/DRAFTS - II.iii Radiación y Mecanismos de Emisión.md",
+    "MARCOS TEÓRICOS/Radiación y mecanismos de emisión..md",
+    "XCRITURA.md",
+    "MARCOS TEÓRICOS/Jets Relativistas - Marco Teórico.md",
+    "MARCOS TEÓRICOS/Cascada conceptual - Jets Relativistas.svg",
     "FUENTES/Correlación espacial - Tesis UNAM.md",
+    "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
     "TheSis.md",
     "Catalogo de Coincidencias Multimensajero.  AGN vs Neutrino.md",
     "All/Analisis Estadistico Completo.pdf",
-    "XCRITURA.md",
-    "MARCOS TEÓRICOS/Jets Relativistas - Marco Teórico.md",
     "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
     "Avances Tesis.md",
     "FUENTES/AGNs Urry & Padovani (1995).pdf",
@@ -419,7 +424,6 @@
     "TESIS - DRAFTS/DRAFTS - II.ii Jets Relativistas.md",
     "Pasted image 20260708123546.png",
     "All/Others/Anexos/canvas agns.md",
-    "TESIS - DRAFTS/DRAFTS - II.iii Radiación y Mecanismos de Emisión.md",
     "FUENTES/AGN's y blazares multimensajero HAWC+IceCube.md",
     "Escritura/I. Introducción.md",
     "ANALISIS/Corrección de Análisis - Spearman.md",
@@ -437,7 +441,6 @@
     "Anexos/Pasted image 20260616212707.png",
     "Pasted image 20260531234407.png",
     "Pasted image 20260531234342.png",
-    "Pasted image 20260531232846.png",
     "Anexos/teni.canvas",
     "TITULACION.canvas",
     "DETECCIONES.canvas"
