@@ -12,13 +12,15 @@ tags:
 ---
  > 	Los mecanismos de emisión son el punto donde la física del jet se vuelve observable. La sección [[II.ii Jets Relativistas]] dejó una población de partículas no térmicas —electrones y, si el jet es hadrónico, protones— aceleradas hasta energías macroscópicas y confinadas en un flujo que apunta a la Tierra. Este marco sigue lo que esas partículas hacen con su energía: cómo los electrones la convierten en el continuo de sincrotrón y Compton inverso que domina el cielo gamma, cómo los protones abren un segundo canal que fabrica a la vez rayos gamma y neutrinos, y por qué solo ese segundo canal deja una huella que ningún modelo leptónico puede imitar. Ese es el argumento físico que justifica buscar neutrinos de IceCube en las posiciones de las fuentes gamma de HAWC.
 
-## Por qué este marco
+%%## Por qué este marco
 
 La tesis mide una coincidencia espacial: neutrinos de IceCube contra posiciones de AGN detectados en rayos gamma. Para que esa medición signifique algo hay que responder antes una pregunta —¿por qué esperaríamos que un neutrino y un fotón gamma salieran del mismo objeto?— y la respuesta está entera en los mecanismos de emisión.
 
 La sección anterior explicó de dónde sale la energía, el espín del agujero negro extraído por Blandford–Znajek, y cómo termina depositada en partículas individuales por los choques y la reconexión. Lo que no explicó es qué radiación producen esas partículas, y ahí está la bifurcación que ordena todo el capítulo. Una población de electrones radia fotones y nada más. Una población de protones radia fotones y neutrinos a la vez, porque unos y otros nacen del mismo decaimiento. El neutrino es, por eso, la única señal capaz de distinguir un jet que acelera hadrones de uno que solo acelera leptones, y distinguir eso —fuente por fuente— es exactamente lo que persigue la correlación multimensajera. Este marco cierra el bloque teórico entregando a los capítulos instrumentales dos cosas: el espectro que HAWC va a medir y la razón por la que una alerta de IceCube sobre la posición de una fuente gamma cuenta como evidencia y no como casualidad.
-
+%%
 ## 1. Radiación térmica y no térmica: el techo del disco y el continuo del jet
+
+Para definir la radiación que emite un cuerpo usamos los fundamentos de la radiación de cuerpo negro de Planck. Un cuerpo negro en equilibrio a temperatura $T$ emite un espectro de Planck cuyo máximo se corre con $T$ según la ley de Wien que dice: $\nu_{\rm pico}\propto T$ 
 
 Todo cuerpo con temperatura radia. Un cuerpo negro en equilibrio a temperatura $T$ emite un espectro de Planck cuyo máximo se corre con $T$ según la ley de Wien, $\nu_{\rm pico}\propto T$: es la radiación de una estrella, de una brasa y también de un ser humano a $310$ K, cuyo pico cae en el infrarrojo. En un AGN, la componente térmica la produce el disco de acreción, que no es un anillo a una temperatura sino una superposición de anillos a temperaturas crecientes hacia el centro; integrados, forman el "gran bulto azul" con su máximo en el ultravioleta y su cola en rayos X blandos. Esa es la firma del gas caliente, y —como se estableció en [[II.i Fenomenología de los AGNs]]— es también su límite: la termodinámica de la acreción tiene un techo, y ese techo no llega ni de lejos al régimen del TeV.
 
