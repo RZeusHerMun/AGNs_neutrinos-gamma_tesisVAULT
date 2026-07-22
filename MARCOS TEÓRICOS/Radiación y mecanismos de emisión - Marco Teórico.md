@@ -12,7 +12,8 @@ tags:
 ---
  > 	Los mecanismos de emisión son el punto donde la física del jet se vuelve observable. La sección [[II.ii Jets Relativistas]] dejó una población de partículas no térmicas —electrones y, si el jet es hadrónico, protones— aceleradas hasta energías macroscópicas y confinadas en un flujo que apunta a la Tierra. Este marco sigue lo que esas partículas hacen con su energía: cómo los electrones la convierten en el continuo de sincrotrón y Compton inverso que domina el cielo gamma, cómo los protones abren un segundo canal que fabrica a la vez rayos gamma y neutrinos, y por qué solo ese segundo canal deja una huella que ningún modelo leptónico puede imitar. Ese es el argumento físico que justifica buscar neutrinos de IceCube en las posiciones de las fuentes gamma de HAWC.
 
-%%## Por qué este marco
+%%
+## Por qué este marco
 
 La tesis mide una coincidencia espacial: neutrinos de IceCube contra posiciones de AGN detectados en rayos gamma. Para que esa medición signifique algo hay que responder antes una pregunta —¿por qué esperaríamos que un neutrino y un fotón gamma salieran del mismo objeto?— y la respuesta está entera en los mecanismos de emisión.
 

@@ -1,7 +1,8 @@
+[[cORRELACION cO ESPACIAL DE NEURTINOS Y FUENTES GAMMA - UNAM.pdf]]
 ### NEUTRINOS:
-la perdida de energia tiene que ver con la distancia a la que se encuentra el punto de origen del neutrino??
+la perdida de energía tiene que ver con la distancia a la que se encuentra el punto de origen del neutrino??
 
-La pérdida de energía ionizante es casi constante mientras que la pérdida de energía radiativa depende débilmente de la energía.
+La pérdida de energía ionizante es casi constante mientras que la pérdida de energía radiactiva depende débilmente de la energía.
 
 # AGNs
 -Q son?

@@ -1,4 +1,4 @@
-    # Tesis - Otoño/Invierno 2025
+# Tesis - Otoño/Invierno 2025
 Asesor: Dr. Daniel Rosa Gonzalez - INAOE
 Línea de Investigación: AGNs, Emisión multimensajero: Neutrinos & rayos Gamma.
 Colaboración: HAWC - IceCube [[Inicio Diario - Launch Jupy - versionsGIT]] [[Data]] [[Criterios]] [[Problemas]]
