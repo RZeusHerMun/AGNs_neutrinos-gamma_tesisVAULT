@@ -177,50 +177,75 @@
         "currentTab": 6
       },
       {
-        "id": "05e5b4c89e570ce8",
-        "type": "tabs",
+        "id": "daf6dcab3a4b7839",
+        "type": "split",
         "children": [
           {
-            "id": "ee88f5c26a8c2f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
-                "mode": "source",
-                "source": false
+            "id": "05e5b4c89e570ce8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b230baa37bcbfcd",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Anexos/canvas agns.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "canvas agns"
+                }
               },
-              "icon": "lucide-file",
-              "title": "AGNs - Marco Teórico"
-            }
+              {
+                "id": "ff0795853ff3f0e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DRAFTS - II.i Fenomenología de los AGNs"
+                }
+              },
+              {
+                "id": "5679cabf7674bbb0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "FUENTES/Astroparticle Physics.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Astroparticle Physics"
+                }
+              }
+            ]
           },
           {
-            "id": "ff0795853ff3f0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DRAFTS - II.i Fenomenología de los AGNs"
-            }
-          },
-          {
-            "id": "5679cabf7674bbb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FUENTES/Astroparticle Physics.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Astroparticle Physics"
-            }
+            "id": "3859c5a4f4331021",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee88f5c26a8c2f81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AGNs - Marco Teórico"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -277,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "dcd74437142f6649",
@@ -413,10 +437,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee88f5c26a8c2f81",
+  "active": "1b230baa37bcbfcd",
   "lastOpenFiles": [
+    "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
     "Anexos/cORRELACION cO ESPACIAL DE NEURTINOS Y FUENTES GAMMA - UNAM.pdf",
     "FUENTES/AGNs Urry & Padovani (1995).pdf",
+    "FUENTES/A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña.md",
     "TESIS - DRAFTS/DRAFTS - II.i Fenomenología de los AGNs.md",
     "FUENTES/Astroparticle Physics.pdf",
     "FUENTES/Correlación espacial - Tesis UNAM.md",
@@ -426,9 +452,7 @@
     "TheSis.md",
     "All/Analisis Estadistico Completo.pdf",
     "XCRITURA.md",
-    "FUENTES/A 9-Year TeV Gamma-Ray Survey of Active Galaxies by HAWC - FerJosue Ureña.md",
     "Avances Tesis.md",
-    "MARCOS TEÓRICOS/AGNs - Marco Teórico.md",
     "MARCOS TEÓRICOS/Jets Relativistas - Marco Teórico.md",
     "MARCOS TEÓRICOS/Radiación y mecanismos de emisión - Marco Teórico.md",
     "Escritura/II.iii Radiación y Mecanismos de Emisión.md",
